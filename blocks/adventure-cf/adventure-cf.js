@@ -14,7 +14,7 @@ function showError(block, message) {
 }
 
 /**
- * Show empty/no selection state
+ * Show empty/no selection state, tests
  */
 function showEmpty(block) {
   const emptyMessage = 'No content fragment selected. Use the Universal Editor to select a content fragment.';
